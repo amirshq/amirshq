@@ -11,4 +11,5 @@ Here are some ideas to get you started:
 - 💬 Ask me about DL,ML, Energy management and Photography
 - 📫 How to reach me: amir.shahcheraghian@gmail.com
 - ⚡ Fun fact: I Love Night Sky Photography
--->
+
+With the aid of machine learning and deep learning, authorities will be able to predict the Energy Audits and Energy Demands in their districts and cities, and they will be able to meet the demand and supply. The DL algorithms, such as Artificial Neural Networks, are capable of training models for specific areas in large cities and eventually finding suitable models for a particular area. It is one of the best ways to meet future demand in cities due to rapid urbanization and high energy demand. 
