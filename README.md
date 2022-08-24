@@ -1,7 +1,5 @@
 ### Hi there 👋
 
-<!--
-**amirshq/amirshq** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 I am Amir, Research Assistant at the university of Quebec.
 In collaboration with the University of Quebec and the Royal Institute of Technology in Sweden (KTH), I'm comparing Machine Learning and Deep Learning algorithms for the Heating and Cooling Load of a sample building. 
 Blackbox and Whitebox models can be combined to solve many Heating and Cooling problems of buildings and districts.
