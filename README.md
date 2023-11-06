@@ -1,7 +1,7 @@
 ### Hi there 👋
 
-I am Amir, Research Assistant at the university of Quebec.
-In collaboration with the University of Quebec and the Royal Institute of Technology in Sweden (KTH), I'm comparing Machine Learning and Deep Learning algorithms for the Heating and Cooling Load of a sample building. 
+I am Amir, Research Assistant at École de technologie supérieure | ÉTS Montréal.
+In collaboration with the ÉTS and the Royal Institute of Technology in Sweden (KTH), I'm comparing Machine Learning and Deep Learning algorithms for the Heating and Cooling Load of a sample building. 
 Blackbox and Whitebox models can be combined to solve many Heating and Cooling problems of buildings and districts.
 Here are some ideas to get you started:
 
