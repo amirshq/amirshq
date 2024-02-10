@@ -8,7 +8,9 @@ I am a Research Assistant at École de technologie supérieure (ÉTS) in Montré
 
 🌱 I'm continuously learning and staying abreast of the latest in AI and data science, holding over 30 certificates in the field. I thrive in collaborative environments, contributing to open-source projects, and am always on the lookout for new challenges and opportunities to grow.
 
-📚 My academic background includes a PhD in science–engineering from ÉTS, where I specialize in AI applications for building energy management and image processing. I'm also a co-founder of Innovate Montreal, aiming to connect tech enthusiasts through meaningful exchanges and discussions on cutting-edge technologies.
+📚 My academic background includes a PhD in science–engineering from ÉTS, where I specialize in AI applications for building energy management and NLP. 
+
+📃 I'm also a co-founder of Innovate Montreal, aiming to connect tech enthusiasts through meaningful exchanges and discussions on cutting-edge technologies.
 
 💡 I invite you to explore my projects and collaborations on GitHub. Let's connect and innovate together!
 
