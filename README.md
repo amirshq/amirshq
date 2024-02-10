@@ -2,11 +2,21 @@
 
 I am a Research Assistant at École de technologie supérieure (ÉTS) in Montréal, specializing in Machine Learning (ML), Natural Language Processing (NLP), Large Language Models (LLMs), and Data Science. My GitHub profile features a variety of projects across NLP, Computer Vision, and ML, reflecting my wide-ranging expertise and contributions to these areas.
 
-- 🔭 I’m currently working on ML and DL Algorithms for Building energy management systems
-- 🌱 I’m currently learning Image processing using DL
-- 👯 I’m looking to collaborate on the project of energy management data analysis for Residential buildings
-- 💬 Ask me about DL,ML, Energy management and Photography
-- 📫 How to reach me: amir.shahcheraghian@gmail.com
-- ⚡ Fun fact: I Love Night Sky Photography
+---
 
-With the aid of machine learning and deep learning, authorities will be able to predict the Energy Audits and Energy Demands in their districts and cities, and they will be able to meet the demand and supply. The DL algorithms, such as Artificial Neural Networks, are capable of training models for specific areas in large cities and eventually finding suitable models for a particular area. It is one of the best ways to meet future demand in cities due to rapid urbanization and high energy demand. 
+🔍 My GitHub showcases projects that highlight my skills in fine-tuning LLMs, developing chatbots, and applying ML techniques to various domains. Whether it's enhancing predictive models for energy efficiency or exploring the boundaries of generative models, my goal is to push the envelope in AI research and development.
+
+🌱 I'm continuously learning and staying abreast of the latest in AI and data science, holding over 30 certificates in the field. I thrive in collaborative environments, contributing to open-source projects, and am always on the lookout for new challenges and opportunities to grow.
+
+📚 My academic background includes a PhD in science–engineering from ÉTS, where I specialize in AI applications for building energy management and image processing. I'm also a co-founder of Innovate Montreal, aiming to connect tech enthusiasts through meaningful exchanges and discussions on cutting-edge technologies.
+
+💡 I invite you to explore my projects and collaborations on GitHub. Let's connect and innovate together!
+
+💬 Ask me about DL,ML, Energy management and Photography
+  
+📫 How to reach me: amir.shahcheraghian@gmail.com
+  
+⚡ Fun fact: I Love Night Sky Photography
+
+
+
