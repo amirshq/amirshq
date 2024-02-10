@@ -1,9 +1,6 @@
 ### Hi there 👋
 
-I am Amir, Research Assistant at École de technologie supérieure | ÉTS Montréal.
-In collaboration with the ÉTS and the Royal Institute of Technology in Sweden (KTH), I'm comparing Machine Learning and Deep Learning algorithms for the Heating and Cooling Load of a sample building. 
-Blackbox and Whitebox models can be combined to solve many Heating and Cooling problems of buildings and districts.
-Here are some ideas to get you started:
+I am a Research Assistant at École de technologie supérieure (ÉTS) in Montréal, specializing in Machine Learning (ML), Natural Language Processing (NLP), Large Language Models (LLMs), and Data Science. My GitHub profile features a variety of projects across NLP, Computer Vision, and ML, reflecting my wide-ranging expertise and contributions to these areas.
 
 - 🔭 I’m currently working on ML and DL Algorithms for Building energy management systems
 - 🌱 I’m currently learning Image processing using DL
