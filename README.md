@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I am a Research Assistant at École de technologie supérieure (ÉTS) in Montréal, specializing in Machine Learning (ML), Natural Language Processing (NLP), Large Language Models (LLMs), and Data Science. My GitHub profile features a variety of projects across NLP, Computer Vision, and ML, reflecting my wide-ranging expertise and contributions to these areas.
+I am a Data Scientist, specializing in Machine Learning (ML), Natural Language Processing (NLP) and Large Language Models (LLMs). My GitHub profile features a variety of projects across NLP, Computer Vision, and ML, reflecting my wide-ranging expertise and contributions to these areas.
 
 ---
 
